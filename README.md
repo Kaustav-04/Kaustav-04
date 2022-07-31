@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--<h1 align="center">Hi 👋, I'm KAUSTAV GIRI</h1>
+<h1 align="center">Hi 👋, I'm KAUSTAV GIRI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://camo.githubusercontent.com/04e1fb71da995e01cd6b0aef1b07b2d9745edd584d7b47236f083c3cd1d1bfe5/68747470733a2f2f7777772e69616b6164656d692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7068702d7765622d64657369676e2e676966" width="100%" height="100%">
 
@@ -8,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustav-04" alt="kaustav-04" /></a> </p>
 
-<img src="" style="float:right;">
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" style="float:right; width:50%;">
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
@@ -31,17 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustav-04&show_icons=true&locale=en" alt="kaustav-04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav-04&" alt="kaustav-04" /></p>
-
-**Kaustav-04/Kaustav-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
