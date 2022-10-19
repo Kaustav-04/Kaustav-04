@@ -8,7 +8,7 @@
 
 <img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" style="float:right; width:50%;">
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **REACT.Js**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
