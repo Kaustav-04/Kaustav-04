@@ -5,7 +5,7 @@
          height="35"
 	 width="35" /> I'm Kaustav Giri!!!</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Soham-Chakraborty-8455&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kaustav-04&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
 
 
 ### About Myself:
@@ -20,7 +20,7 @@
 
 ### Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/kaustav-giri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-chakraborty-666840221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaustav-giri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
  <a href="https://instagram.com/reek_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reek_._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kaustavgiri2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kaustavgiri2017" height="30" width="40" /></a>
 </p>
@@ -67,4 +67,4 @@
 
 ### Activity Graph:
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Soham-Chakraborty-8455&&theme=xcode)](https://github.com/Kaustav-04)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kaustav-04&&theme=xcode)](https://github.com/Kaustav-04)
