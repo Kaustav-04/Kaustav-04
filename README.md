@@ -1,6 +1,11 @@
 # 💫 About Me:
-- I am pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025** from **IEM, KOLKATA**.<br>- I am a **Front-End Web Developer** looking to expand my knowledge and gain experience in app development and backend development.<br>- I’m currently learning **React** frontend javascript framework.<br>- I’m looking to collaborate with developers for React projects.<br>- Reach me at kaustavgiri2017@gmail.com
+- I am pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025** from **IEM, KOLKATA**.
+- I am a **Front-End Web Developer** looking to expand my knowledge and gain experience in app development and backend development.
+- I’m currently learning **React** frontend javascript framework.
+- I’m looking to collaborate with developers for React projects.
+- Reach me at kaustavgiri2017@gmail.com
 
+<p><img src="https://komarev.com/ghpvc/?username=kaustav-04&label=Profile%20views&color=0e75b6&style=flat" alt="kaustav-04" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reek_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-giri) 
@@ -19,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaustav-04&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaustavgiri) 
