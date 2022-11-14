@@ -1,68 +1,28 @@
-<p align="center"><img src="https://camo.githubusercontent.com/04e1fb71da995e01cd6b0aef1b07b2d9745edd584d7b47236f083c3cd1d1bfe5/68747470733a2f2f7777772e69616b6164656d692e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7068702d7765622d64657369676e2e676966"></p>
-
-<h2 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="35"
-	 width="35" /> I'm Kaustav Giri!!!</h2>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kaustav-04&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Chakraborty-8455" /> </p>
+# 💫 About Me:
+- I am pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025** from **IEM, KOLKATA**.<br>- I am a **Front-End Web Developer** looking to expand my knowledge and gain experience in app development and backend development.<br>- I’m currently learning **React** frontend javascript framework.<br>- I’m looking to collaborate with developers for React projects.<br>- Reach me at kaustavgiri2017@gmail.com
 
 
-### About Myself:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reek_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-giri) 
 
-- I am pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025** from **IEM, KOLKATA**.
-- I am a **Front-End Web Developer** looking to expand my knowledge and gain experience in app development and backend development.
-- I’m currently learning **React** frontend javascript framework.
-- I’m looking to collaborate with developers for React projects.
-- Reach me out at kaustavgiri2017@gmail.com
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kaustav-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaustav-04&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustav-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="right" width=300px height=200px alt="side_sticker" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kaustav-04&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-### Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/kaustav-giri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
- <a href="https://instagram.com/reek_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reek_._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kaustavgiri2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kaustavgiri2017" height="30" width="40" /></a>
-</p>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Tech Stack:
-#### Programming Languages:
-<!--<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="100" height="35"/> </a>-->
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="120" height="35"/></a>
-<a href="https://html.com/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="120" height="35"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="130" height="35"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="javascript" width="130" height="35"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="35"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="100" height="35"/> </a>
-<!--<a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="100" height="35"/> </a> -->
-#### Frameworks and Libraries:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23F24E1E.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=blueviolet) ![Firebase](https://img.shields.io/badge/firebase-%23F24E1E.svg?style=for-the-badge&logo=firebase&logoColor=yellow&color=blue) ![React](https://img.shields.io/badge/react-%23F24E1E.svg?style=for-the-badge&logo=react&logoColor=blue&color=black) ![Redux](https://img.shields.io/badge/redux-%23F24E1E.svg?style=for-the-badge&logo=redux&logoColor=white&color=purple) ![Framer-Motion](https://img.shields.io/badge/framer%20motion-%23F24E1E.svg?style=for-the-badge&logo=framer&logoColor=white&color=blueviolet)
-<!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="pandas" width="120" height="35"/> </a>-->
+---
+[![](https://visitcount.itsvg.in/api?id=Kaustav-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### Tools:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-#### IDEs:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
-### Coding Platforms:
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaustavgiri) 
 
-### GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Kaustav-04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-### Github Profile Summary Card:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaustav-04&theme=vue" />
-</p>
-
-### GitHub Stats:
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaustav-04&show_icons=true&theme=dark" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustav-04&theme=dark" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaustav-04&show_icons=true&locale=en&layout=compact&theme=dark" alt="Kaustav-04" />
-</p>
-
-### Activity Graph:
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kaustav-04&&theme=xcode)](https://github.com/Kaustav-04)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
