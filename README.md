@@ -20,6 +20,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaustav-04&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
+### Activity Graph:
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kaustav-04&&theme=xcode)](https://github.com/Kaustav-04)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
