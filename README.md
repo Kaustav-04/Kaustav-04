@@ -22,7 +22,7 @@
 
 ### Activity Graph:
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Kaustav-04&&theme=xcode)](https://github.com/Kaustav-04)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kaustav-04&theme=dracula)](https://github.com/Kaustav-04/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
