@@ -1,6 +1,6 @@
 # 💫 About Me:
 - I am pursuing **Bachelors of Technology** in **Computer Science Engineering**, batch of **2025** from **IEM, KOLKATA**.
-- I am a **Front-End Web Developer** looking to expand my knowledge and gain experience in Web3.0 and backend development.
+- I am a **Full Stack Web Developer** looking to expand my knowledge and gain experience in Web3.0 and backend development.
 - I’m currently learning **Django** and **Solidity** frontend javascript framework.
 - I’m looking to collaborate with developers for React projects.
 - Reach me at kaustavgiri2017@gmail.com
