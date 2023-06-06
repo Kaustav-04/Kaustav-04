@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-# 📊 Achivements 🏆:
+# Achivements 🏆:
 - Winner of **Hack This Fall 3.0** in **Appwrite Track**.
 
 # 📊 GitHub Stats:
