@@ -7,6 +7,10 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=kaustav-04&label=Profile%20views&color=0e75b6&style=flat" alt="kaustav-04" /> </p>
 
+# Achivements 🏆:
+- Winner of **Hack This Fall 3.0** in **Appwrite Track**.
+- Winner of **TecHacks 3.0** in **Polygon Track**.
+
 ## 🌐 Socials:
 <img src="https://skillicons.dev/icons?i=linkedin,instagram,discord,twitter" >
 
@@ -37,9 +41,7 @@
 </tr>
 </table>
 
-# Achivements 🏆:
-- Winner of **Hack This Fall 3.0** in **Appwrite Track**.
-- Winner of **TecHacks 3.0** in **Polygon Track**.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kaustav-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
