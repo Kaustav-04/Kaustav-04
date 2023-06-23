@@ -39,6 +39,7 @@
 
 # Achivements 🏆:
 - Winner of **Hack This Fall 3.0** in **Appwrite Track**.
+- Winner of **TecHacks 3.0** in **Polygon Track**.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kaustav-04&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
